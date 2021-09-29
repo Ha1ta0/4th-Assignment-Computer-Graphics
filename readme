@@ -10,7 +10,7 @@ PS：
 
 1.使用VS2019进行编译，所用OpenGL版本为VS自带的1.1版本（我额外添加了glut库）
 
-2.工程文件为“gl_1_2.sln”
+2.工程文件为“gl_1_2.sln”,"Vedio for display"文件夹下是演示效果
 
 3.通过lodepng库（https://www.opengl.org/wiki/Image_Libraries ）将本人头像的png图片读取到内存中。
 
